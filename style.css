@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/005/412/075/original/abstract-pastel-purple-minimal-background-for-invitation-or-banner-free-vector.jpg);
+    margin-top: 200px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-family: 'Pacifico';
+    color: #909090;
+    font-size: 50px;
+}
+
+input{
+    background-color: transparent;
+    border-color: #909090;
+    border-radius: 5px;
+    width: 80px;
+}
+.ok{
+    background-color: rgba(255, 255, 255, 0.4);
+}
