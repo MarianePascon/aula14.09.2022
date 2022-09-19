@@ -1,0 +1,25 @@
+body{
+    background-color: #2D55A6;
+    margin-top: 150px;
+    color: #F29F05;
+    text-align: center;
+}
+
+input{
+    background-color: #F28705;
+    margin: 10px;
+    border: none;
+    width: 60px;
+    border-radius: 5px;
+    color: #A62F03;
+}
+
+button{
+    margin-top: 10px;
+    border: none;
+    background-color: #F28705;
+    color: #400702;
+    border-radius: 5px;
+}
+
+

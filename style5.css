@@ -1,0 +1,31 @@
+body{
+    background-color: #2F4F4F;
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-around;
+}
+div{
+    background-color: #CD5C5C;
+    width: 500px;
+    height: 300px;
+    margin: 30px;
+    text-align: center;
+    border-radius: 10px;
+    border-color: #D2B48C;
+}
+
+input{
+    margin: 5px;
+    width: 50px;
+    border-radius: 5px;
+    border: none;
+    background-color: #D2B48C;
+
+}
+button{
+    background-color: #D2B48C;
+    border-radius: 5px;
+    border: none;
+    margin-top: 30px;
+    
+}
