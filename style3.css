@@ -1,0 +1,25 @@
+body{
+    background-color: #A2BF39;
+    text-align: center;
+}
+
+h1{
+    color: #617322;
+}
+
+input{
+    background-color: transparent;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+button{
+    background-color: #BF9B7A;
+    color: #617322;
+    border: none;
+    border-radius: 5px;
+    width: 120px;
+    height: 40px;
+    font-size: 20px;
+    margin-top: 20px;
+}
